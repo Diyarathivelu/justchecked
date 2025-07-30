@@ -1,8 +1,8 @@
-# justchecked
+# Justchecked
 Just Checked – Interactive web Application
 Description:
 
-Developed an interactive web application titled “Just Checked”, aimed at helping users and students understand basic number theory and string logic through real-time validation tools. The platform consists of multiple logic modules such as Armstrong Number, Prime Check, Palindrome, Fibonacci Series, Anagram Checker, Pangram Checker, LCM & GCD, and more.
+Developed an interactive web application titled “Just Checked”, aimed to understand basic number theory and string logic through real-time validation tools. The platform consists of multiple logic modules such as Armstrong Number, Prime Check, Palindrome, Fibonacci Series, Anagram Checker, Pangram Checker, LCM & GCD, and more.
 
 Key Features:
 
